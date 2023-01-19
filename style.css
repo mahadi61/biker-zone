@@ -1,0 +1,25 @@
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 48px;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+}
+
+
+/* navbar css */
+.brand-logo{
+    font-size: 35px;
+    font-weight: 700;
+    color: #000000;
+}
+.btn-login{
+    background-color: #E76F51;
+    padding: 10px 15px;
+    color: #ffff;
+    font-size: 20px;
+    font-weight: 700;
+}
